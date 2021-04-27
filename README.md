@@ -6,7 +6,7 @@
 ### Somethings About me:
 I am Shubham Sharma,
 Pursuing Masters in Cyber Security.
-I have a website check it out from [here](https://www.blackhathackers.in/) too.
+
 ### Somethings About this Github Profile
 - It contains my contributions to open source tools
 - Automation scripts to enhances ease of doing task
