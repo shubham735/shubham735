@@ -16,6 +16,6 @@ I have a website check it out from [here](https://www.blackhathackers.in/) too.
 - [Tryhackme](https://tryhackme.com/p/dvwa)
 - [Hack the Box](https://www.hackthebox.eu/profile/173577)
 - [Hackerone](https://hackerone.com/shubham735) -->
-### Connect with me on various paltforms
+### Connect with me on various platforms
 - [LinkedIn](https://www.linkedin.com/in/shubham735/)
 - [gmail](mailto:shubham.sharma735@gmail.com)
