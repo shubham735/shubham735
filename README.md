@@ -1,16 +1,15 @@
 ## ***Hello World***  👋
 ```
-"I am always doing that which I cannot do, in order that I may learn how to do it."
+"I am always doing that which I cannot do so that I may learn how to do it."
                                                                                     -Pablo Picasso
 ```
 ### Somethings About me:
 I am Shubham Sharma,
-Pursuing Masters in Cyber Security.
 
 ### Somethings About this Github Profile
-- It contains my contributions to open source tools
-- Automation scripts to enhances ease of doing task
-<!--- Walkthroughs for various labs on paltform like [Tryhackme](), [HacktheBox](), [Port Swigger](), [Over the Wire]() --->
+- It contains my contributions to open-source tools
+- Automation scripts to enhance ease of doing tasks
+<!--- Walkthroughs for various labs on platforms like [Tryhackme](), [HacktheBox](), [Port Swigger](), [Over the Wire]() --->
 - My projects based on web development
 <!--### My profile over some learning platforms
 - [Tryhackme](https://tryhackme.com/p/dvwa)
@@ -19,4 +18,3 @@ Pursuing Masters in Cyber Security.
 ### Connect with me on various platforms
 - [LinkedIn](https://www.linkedin.com/in/shubham735/)
 - [gmail](mailto:shubham.sharma735@gmail.com)
-- Learn basics of Cyber Security [here](https://github.com/shubham735/Cyber-Security-Basics)
